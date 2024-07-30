@@ -5,6 +5,7 @@ My name is Danillo
 Curriculum:  https://drive.google.com/file/d/1SDeE4m9rFfWbDG2CJeHpRBKv4FRmSfVe/view
 
 <div  style="display: inline_block">
+    <img align="center" height="30" width="40" src="https://img.icons8.com/?size=100&id=26029&format=png&color=000000" />  
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
