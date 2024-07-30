@@ -1,8 +1,12 @@
-## Hi there 👋
+Olá, sou Danillo, programador e apaixonado por games. Com experiência em desenvolvimento de software e uma paixão por criar e jogar jogos, estou sempre em busca de novos desafios e oportunidades para crescer na área de tecnologia e entretenimento digital.
 
-My name is Danillo
+Hello, I’m Danillo, a programmer and gaming enthusiast. With experience in software development and a passion for creating and playing games, I am always looking for new challenges and opportunities to grow in the field of technology and digital entertainment.
+
+Portfolio: https://danillodamian.itch.io/
 
 Curriculum:  https://drive.google.com/file/d/1SDeE4m9rFfWbDG2CJeHpRBKv4FRmSfVe/view
+
+
 
 <div  style="display: inline_block">
     <img align="center" height="30" width="40" src="https://img.icons8.com/?size=100&id=26029&format=png&color=000000" />  
