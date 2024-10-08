@@ -4,8 +4,6 @@ Hello, I’m Danillo, a programmer and gaming enthusiast. With experience in sof
 
 Portfolio: https://danillodamian.itch.io/
 
-Curriculum:  https://drive.google.com/file/d/1SDeE4m9rFfWbDG2CJeHpRBKv4FRmSfVe/view
-
 
 
 <div  style="display: inline_block">
