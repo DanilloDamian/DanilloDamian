@@ -1,32 +1,60 @@
-# Hi, I'm Danillo Damian Santos 👋
+# Danillo Damian Santos
 
-Fullstack Developer focused on Java and Angular, currently building high-scale national systems. 
-I have experience in modernizing legacy architectures and implementing microservices.
+**Full-stack developer — Java / Spring Boot, Angular, Node.js.**
+I build nationwide government systems in Brazil and spent two years in financial services, where I migrated a production platform serving 300k+ monthly users from Java 8 to Java 21. Most of my work is modernizing legacy systems without taking them offline.
 
-### 🛠 Tech Stack
-- **Languages:** Java (8, 11, 17, 21), JavaScript, TypeScript.
-- **Backend:** Spring Boot, Node.js, REST APIs, Microservices.
-- **Frontend:** Angular 15, React, HTML5/CSS3.
-- **Data & Ops:** PostgreSQL, Redis, RabbitMQ, Jenkins (CI/CD), Elasticsearch.
+🇮🇹 **Italian (EU) citizen** — no visa sponsorship required to work in the European Union.
+🌎 Based in Florianópolis, Brazil (UTC−3) — overlaps a full workday with EU mornings and US East Coast.
+💼 **Open to B2B / contract work and 100% remote positions.**
 
-### 📈 Current Project
-- Working on a national animal traceability platform with 500k+ active records.
-- Applying Clean Architecture and high-performance database management.
+---
 
-### 📫 Connect with me:
-- **LinkedIn:** [linkedin.com/in/danillodamian](https://www.linkedin.com/in/danillodamian)
-- **Email:** danillo.damian@hotmail.com
+### Experience
 
-<div  style="display: inline_block">
-    <img align="center" height="30" width="40" src="https://img.icons8.com/?size=100&id=26029&format=png&color=000000" />  
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" src="https://github.com/user-attachments/assets/0b0927cc-3cc0-4dba-a24c-63b1b80de403" />
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img align="center" height="30" width="40" src="https://img.icons8.com/?size=100&id=71257&format=png&color=000000" />    
-     <img align="center" height="30" width="40" src="https://img.icons8.com/color/256/spring-logo.png" />
-    <img align="center" height="30" width="40" src="https://img.icons8.com/color/256/postgreesql.png" />
-    <img align="center" height="30" width="40" src="https://img.icons8.com/color/256/c-sharp-logo.png" />  
-    </div>
+**Public sector — Building and maintaining systems for the Brazilian Ministry of the Environment.
+
+- **National Registry of Chemical Substances (CNSQ)** — built the MVP from scratch in Java 25, Spring Boot 4, PostgreSQL, Liquibase, Hibernate Envers, Angular 21, with OAuth2/OIDC through Keycloak and role-based access control.
+- **National animal traceability platform** — 500k+ active records, used daily by the federal government to control public funds. Java 17, Spring Boot, Angular, PostgreSQL.
+
+**Financial services — Payments and financial platform with 300k+ monthly users.
+
+- Led the codebase through a **Java 8 → 21 migration** in production, across services that could not go down.
+- Restructured the microservice architecture, resolving contract inconsistencies between services and modernizing a legacy Spring Boot codebase.
+- Built asynchronous flows with RabbitMQ, integrating with Angular and Flutter clients.
+- Ran the system in production end to end: CI/CD pipelines, L1/L2 triage, and permanent fixes rather than workarounds.
+- Started on the quality side — validating deliverables against requirements and tracing failures through Elasticsearch — which is where the habit of reproducible bug reports came from.
+
+Source code from both employers is private, so the repositories below are the projects I can show.
+
+---
+
+### Selected projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[Municipal Fleet Management](#)** | ETL unifying four legacy municipal data sources (refueling, maintenance, traffic fines, licensing) into a single auditable database, with a preventive-maintenance alert engine that replaced manual spreadsheet control. Built in 28 days for an open-innovation challenge run by the Florianópolis city government. | NestJS · TypeScript · Angular 22 · PostgreSQL/TypeORM · BullMQ/Redis · Chart.js |
+| **[JasperReports + Spring Boot](https://github.com/DanilloDamian/JasperReports-SpringBoot)** | Reference implementation for PDF report generation in Spring Boot, compiling `.jrxml` at runtime to avoid the classpath and `InputStream` pitfalls of pre-compiled `.jasper` files. | Java · Spring Boot · JasperReports |
+
+---
+
+### Stack
+
+**Backend** Java 8–25 · Spring Boot 2–4 · Spring Security · Spring Data JPA / Hibernate · Node.js · NestJS · TypeScript
+
+**Frontend** Angular 15–22 (standalone components) · TypeScript · React · SCSS
+
+**Data** PostgreSQL · Liquibase · Redis · Elasticsearch
+
+**Integration** REST · OpenAPI · RabbitMQ · BullMQ · JasperReports
+
+**Security** OAuth2 · OpenID Connect · Keycloak · Hibernate Envers
+
+**Engineering** Git · Jenkins · CI/CD · Docker · Scrum / Kanban
+
+---
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/danillodamian) · danillo.damian@hotmail.com
+
+Portuguese (native) · English (professional working proficiency) · Italian citizenship
